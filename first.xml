@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FalconStationer>
+    
+<product>
+ <productid>001</productid>
+ <productname>Pencil</productname>
+ <quantity>1200 Units</quantity>
+ <prizeperunit>10</prizeperunit>
+ <priceperdozen>10</priceperdozen>
+ <instock>yes</instock>
+ </product>
+
+<product>
+ <productid>002</productid>
+ <productname>Pen</productname>
+ <quantity>6000 Units</quantity>
+ <prizeperunit>60</prizeperunit>
+ <priceperdozen>700</priceperdozen>
+ <instock>yes</instock>
+</product>
+
+<product>
+    <productid>003</productid>
+    <productname>Earaser</productname>
+    <quantity>15000 Units</quantity>
+    <prizeperunit>60</prizeperunit>
+    <priceperdozen>80</priceperdozen>
+    <instock>yes</instock>
+   </product>
+
+   <product>
+    <productid>004</productid>
+    <productname>Sharpener</productname>
+    <quantity>0 Units</quantity>
+    <prizeperunit>10</prizeperunit>
+    <priceperdozen>110</priceperdozen>
+    <instock>no</instock>
+   </product>
+
+   <product>
+    <productid>005</productid>
+    <productname>Board Marker</productname>
+    <quantity>500 Units</quantity>
+    <prizeperunit>80</prizeperunit>
+    <priceperdozen>900</priceperdozen>
+    <instock>yes</instock>
+   </product>
+
+
+
+
+
+
+</FalconStationer>
